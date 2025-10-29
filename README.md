@@ -2,6 +2,14 @@
 
 SurViz is a tool for better visualizing stated choice surveys.
 
+This is a continuation of a student software project developed as part of a practical course in the Bachelor’s program in Computer Science at Karlsruhe Institute of Technology ([view on GitHUb](https://github.com/brndel/surviz.git)).
+
+Since then, it has been used and further developed at the Institute for Transport Studies.
+Major changes:
+Introduced dummy‑encoded single values with full UI & export support; added single‑value dividers, prefix and smarter decimals; implemented configurable 999‑value handling; strengthened Ngene import; and overhauled export warnings & dialog UX.
+
+
+
 ## Usage
 
 >[!tip]

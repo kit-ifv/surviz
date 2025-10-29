@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: SurViz
+abstract: SurViz is a tool for better visualizing stated choice surveys.
+authors:
+
+- family-names: "Pfister"
+  given-names: "Julius"
+  orcid: "https://orcid.org/0009-0004-0985-566X"
+  roles:
+    - "Developer"
+
+- family-names: "Voss"
+  given-names: "Ann-Sophie"
+  orcid: "https://orcid.org/0009-0003-1523-6630"
+  roles:
+    - "Quality Assurance"
+    - "Documentation"
+
+- family-names: "Klinkhardt"
+  given-names: "Christian"
+  orcid: "https://orcid.org/0000-0001-7176-5885"
+  roles:
+    - "Quality Assurance"
+    - "Documentation"
+
+- family-names: "Andre"
+  given-names: "Robin"
+  orcid: "https://orcid.org/0009-0003-8717-6411"
+  roles:
+    - "Supervisor"
+
+- family-names: "Kübler"
+  given-names: "Jelle"
+  orcid: "https://orcid.org/0000-0001-8095-1815"
+  roles:
+    - "Supervisor"
+
+contact:
+  - name: "Institute for Transport Studies, Karlsruhe Institute of Technology"
+    email: info@ifv.kit.edu
+
+title: "SurViz"
+version: 1.0.6
+date-released: 2025-05-13
+url: "https://github.com/kit-ifv/surviz"
+
+references:
+  - type: software
+    title: SurViz (Original Student Project)
+    authors:
+      - family-names: "Brändle"
+        given-names: "Armin"
+      - family-names: "Dominik"
+        given-names: "Jaro"
+      - family-names: "Flöter"
+        given-names: "Alexander"
+        orcid: "https://orcid.org/0009-0003-6148-6999"
+      - family-names: "Pfister"
+        given-names: "Julius"
+        orcid: "https://orcid.org/0009-0004-0985-566X"
+
+    year: 2024
+    repository-code: https://github.com/brndel/surviz
+    notes: Repository from which this project originated.
