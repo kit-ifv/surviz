@@ -57,6 +57,8 @@ references:
       - family-names: "Flöter"
         given-names: "Alexander"
         orcid: "https://orcid.org/0009-0003-6148-6999"
+      - family-names: "Nell"
+        given-names: "Benicio"
       - family-names: "Pfister"
         given-names: "Julius"
         orcid: "https://orcid.org/0009-0004-0985-566X"
