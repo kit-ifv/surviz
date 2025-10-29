@@ -5,11 +5,11 @@ title: SurViz
 abstract: SurViz is a tool for better visualizing stated choice surveys.
 authors:
 
-#- family-names: "YOUR_NAME_HERE"
-#  given-names: "YOUR_NAME_HERE"
-#  orcid: "https://orcid.org/0000-0000-0000-0000"
-#  roles:
-#    - "Developer"
+- family-names: "Pfister"
+  given-names: "Julius"
+  orcid: "https://orcid.org/0009-0004-0985-566X"
+  roles:
+    - "Developer"
 
 - family-names: "Voss"
   given-names: "Ann-Sophie"
@@ -49,9 +49,18 @@ url: "https://github.com/kit-ifv/surviz"
 references:
   - type: software
     title: SurViz (Original Student Project)
-#    authors: #TODO add PSE authors who want to be cited
-#      - family-names: XYZ
-#        given-names: ABC
+    authors:
+      - family-names: "Brändle"
+        given-names: "Armin"
+      - family-names: "Dominik"
+        given-names: "Jaro"
+      - family-names: "Flöter"
+        given-names: "Alexander"
+        orcid: "https://orcid.org/0009-0003-6148-6999"
+      - family-names: "Pfister"
+        given-names: "Julius"
+        orcid: "https://orcid.org/0009-0004-0985-566X"
+
     year: 2024
     repository-code: https://github.com/brndel/surviz
     notes: Repository from which this project originated.
